@@ -1,0 +1,22 @@
+{
+  "battery": {
+    "costPerHourDowntime": 8000,
+    "hoursToRepairFailure": 24,
+    "costOfProactiveMaintenance": 150000
+  },
+  "motor": {
+    "costPerHourDowntime": 50000,
+    "hoursToRepairFailure": 8,
+    "costOfProactiveMaintenance": 75000
+  },
+  "pump": {
+    "costPerHourDowntime": 30000,
+    "hoursToRepairFailure": 6,
+    "costOfProactiveMaintenance": 40000
+  },
+  "hydraulic": {
+    "costPerHourDowntime": 100000,
+    "hoursToRepairFailure": 12,
+    "costOfProactiveMaintenance": 200000
+  }
+}
